@@ -36,4 +36,4 @@ A simple Spring Boot project to help librarians manage books and track student b
 
 ---
 
-**Author:** Aditya ([GitHub](https://github.com/adicpp))
+
